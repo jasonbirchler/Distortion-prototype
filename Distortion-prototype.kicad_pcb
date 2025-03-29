@@ -79,7 +79,7 @@
 		(grid_origin 117.2972 155.575)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_57555554)
-			(plot_on_all_layers_selection 0x00000000_00000000_00000000_02000004)
+			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
 			(usegerberattributes yes)
@@ -115,7 +115,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "/Users/jason/workspace/Distortion-prototype/outputs/")
 		)
 	)
 	(net 0 "")
